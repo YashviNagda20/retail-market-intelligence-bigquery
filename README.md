@@ -209,20 +209,6 @@ retail-market-intelligence-bigquery/
 - **Video Games**: Low bestseller rates, highly competitive
 - **Home Décor**: Saturated with minimal differentiation
 
-## 📸 Sample Visualizations
-
-### Category Performance Overview
-![Category Performance](visualizations/category_performance_overview.png)
-*Analysis of top 15 categories by total monthly sales and efficiency*
-
-### Market Efficiency Distribution
-![Efficiency Analysis](visualizations/market_efficiency_scatter.png)
-*Price vs Performance analysis showing efficiency tiers*
-
-### Bestseller Comparison
-![Bestseller Analysis](visualizations/bestseller_vs_regular.png)
-*Key differences between bestsellers and regular products*
-
 ## 📝 Methodology
 
 ### Data Processing Pipeline
@@ -258,12 +244,6 @@ retail-market-intelligence-bigquery/
 - **Documentation**: Complete reproducibility with SQL queries, code, and explanations
 - **Presentation**: 33-page professional report with executive summary and visualizations
 - **Critical Thinking**: Challenge conventional wisdom with data-driven insights
-
-## 🔗 Related Projects
-
-- [H1B Job Data Analysis](link) - Processing 561K immigration applications
-- [World Happiness Index Dashboard](link) - 171 countries, 2015-2023
-- [ESP32 Industrial IoT Counter](link) - Real-time production monitoring
 
 ## 📧 Contact
 
