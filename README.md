@@ -250,7 +250,6 @@ retail-market-intelligence-bigquery/
 **Yashvi Nagda**
 - 📧 Email: yashvinagda20@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/yashvi-nagda](https://www.linkedin.com/in/yashvi-nagda)
-- 🌐 Portfolio: [Your Portfolio Website]
 
 ## 📄 License
 
